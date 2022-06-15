@@ -1,4 +1,5 @@
-# CAE-CNN
-The main code of CAE-CNN.
+# Automatic Evolution of Convolutional Neural Networks by Simultaneously Optimizing the Basic Blocks and Topologies
+This project is used to update news related to our paper SAE-CNN: Automatic Evolution of Convolutional Neural Networks by Simultaneously Optimizing the Basic Blocks and Topologies.
 
-It will be released after the paper is accepted.
+# Implementation
+Code will be released soon.
